@@ -8,7 +8,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Amarante", serif;
+    font-family: "Instrument Serif", serif;
 }
 
 body {
@@ -19,11 +19,11 @@ body {
 
 nav {
     grid-area: barra;
-    background-color: darkolivegreen;
+    background-color: darkslategrey;
     padding: 1rem;
     color: #fff;
     text-align: center;
-    font-size: 150%;
+    font-size: 200%;
 }
 
 aside {
@@ -36,9 +36,8 @@ aside {
 }
 
 aside h2 {
-    color: darkolivegreen;
     font-weight: 500;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
 }
 
 aside div {
@@ -74,8 +73,7 @@ article img {
 }
 
 article h3 {
-    color: darkolivegreen;
-    font-size: 1.25rem;
+    font-size: 2rem;
     font-weight: 500;
     margin: .5rem auto;
 }
@@ -89,7 +87,7 @@ article h3 {
 }
 
 button {
-    background-color: darkolivegreen;
+    background-color: darkslategrey;
     color: #fff;
     padding: .5rem 1rem;
     margin: .75rem auto;
@@ -98,8 +96,8 @@ button {
 
 button:hover {
     background-color: #fff;
-    color: darkolivegreen;
-    outline: 2px solid darkolivegreen;
+    color: darkslategrey;
+    outline: 2px solid darkslategrey;
 }
 
 footer {
